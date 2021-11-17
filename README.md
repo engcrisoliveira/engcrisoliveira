@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+
+![profile-stats](https://github-readme-stats.vercel.app/api?username=engcrisoliveira&show_icons=true)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact)
 
 <!--
 **engcrisoliveira/engcrisoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
