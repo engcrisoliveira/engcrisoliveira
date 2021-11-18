@@ -1,7 +1,6 @@
-###
-Engineer, data science enthusiastic, python apprentice, mom, cooker in her spare time and sea lover.
+###Engineer, data science enthusiastic, python apprentice, mom, cooker in her spare time and sea lover.
 
-🎲 Interest in: Data Analysis, Education, People and Cities.
+Interest in: Data Analysis, Education, People and Cities.
 
 ![profile-stats](https://github-readme-stats.vercel.app/api?username=engcrisoliveira&show_icons=true&theme=github_dark)
 
