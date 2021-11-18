@@ -1,8 +1,8 @@
 ### Hi there!
 
-![profile-stats](https://github-readme-stats.vercel.app/api?username=engcrisoliveira&show_icons=true)
+![profile-stats](https://github-readme-stats.vercel.app/api?username=engcrisoliveira&show_icons=true&theme=github_dark)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark)
 
 <!--
 **engcrisoliveira/engcrisoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
