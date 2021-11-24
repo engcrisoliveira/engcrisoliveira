@@ -1,6 +1,6 @@
 ## Hey, I'm Cris!
 
-I'm [data science] beginner 🎲 Python, R and Julia enthusiastic... Love colors, people, storytelling and consequently [dataviz]! Sea lover, mom always and cook in her spare time. 💕
+I'm data science beginner 🎲 Python, R and Julia enthusiastic... Love colors, people, storytelling and consequently dataviz! Sea lover, mom always and cook in her spare time. 💕
 
 Interest in: Data Analysis, People, Cultures, Cities and Education ✨
 
@@ -12,7 +12,7 @@ Interest in: Data Analysis, People, Cultures, Cities and Education ✨
  
 With an engineering and sustainable development background, when the projects scope has SDGs, my eyes shine ✨
 
-> If you're interested in the [UN Sustainable Development Goals], consider call me for a little project!
+> If you're interested in the UN Sustainable Development Goals, consider call me for a little project!
 
  ---
 
