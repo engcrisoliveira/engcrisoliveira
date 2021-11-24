@@ -1,8 +1,8 @@
 # Hey, I'm Cris!
 
-### I'm [data science] beginner 🎲 Python, R and Julia enthusiastic... Love colors, people, storytelling and consequently [dataviz]! Sea lover, mom always and cook in her spare time. 💕
+I'm [data science] beginner 🎲 Python, R and Julia enthusiastic... Love colors, people, storytelling and consequently [dataviz]! Sea lover, mom always and cook in her spare time. 💕
 
-### Interest in: Data Analysis, People, Cultures, Cities and Education ✨
+Interest in: Data Analysis, People, Cultures, Cities and Education ✨
 
 ---
  
@@ -16,7 +16,9 @@ With an engineering and sustainable development background, when the projects sc
 
  ---
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark)
+ ​<p align="center"> 
+ ​<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark" alt="engcrisoliveira' most languages"/> 
+ ​</p>
 
 <!--
 **engcrisoliveira/engcrisoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
