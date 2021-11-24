@@ -7,7 +7,7 @@ Interest in: Data Analysis, People, Cultures, Cities and Education ✨
 ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/engcrisoliveira/engcrisoliveira/blob/main/icon/sdg_onu.png?raw=true">
+  <img width="100" align='left' src="https://github.com/engcrisoliveira/engcrisoliveira/blob/main/icon/sdg_onu.png?raw=true">
 </p>
  
 With an engineering and sustainable development background, when the projects scope has SDGs, my eyes shine ✨
@@ -17,7 +17,7 @@ With an engineering and sustainable development background, when the projects sc
  ---
 
  ​<p align="center"> 
- ​<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark" alt="engcrisoliveira' most languages"/> 
+ ​<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark" alt="engcrisoliveira' most languages"/> 
  ​</p>
 
 <!--
