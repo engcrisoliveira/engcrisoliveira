@@ -1,9 +1,20 @@
-###
-Engineer, data science enthusiastic, python apprentice, mom, cooker in her spare time and sea lover.
+# Hey, I'm Cris!
 
-Interest in: Data Analysis, Education, People and Cities.
+### I'm [data science] beginner 🎲 Python, R and Julia enthusiastic... Love colors, people, storytelling and consequently [dataviz]! Sea lover, mom always and cook in her spare time. 💕
 
-![profile-stats](https://github-readme-stats.vercel.app/api?username=engcrisoliveira&show_icons=true&theme=github_dark)
+### Interest in: Data Analysis, People, Cultures, Cities and Education ✨
+
+---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/engcrisoliveira/engcrisoliveira/blob/main/icon/sdg_onu.png?raw=true">
+</p>
+ 
+With an engineering and sustainable development background, when the projects scope has SDGs, my eyes shine ✨
+
+> If you're interested in the [UN Sustainable Development Goals], consider call me for a little project!
+
+ ---
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark)
 
