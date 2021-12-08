@@ -1,6 +1,6 @@
 ## Hey, I'm Cris!
 
-I'm data science beginner 🎲 Python, R and Julia enthusiastic... Love colors, people, storytelling and consequently dataviz! Sea lover, mom always and cook in her spare time. 💕
+I'm data science beginner 🎲 Python, R and Julia. Love colours, storytelling and DataViz! Enthusiastic about diversity, equity and inclusion. Sea lover, mom always and cook in her spare time. 💕
 
 Interest in: Data Analysis, People, Cultures, Cities and Education ✨
 
