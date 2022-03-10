@@ -1,16 +1,23 @@
 ## Hey, I'm Cris!
 
-I'm data science beginner 🎲 Python, R and Julia. Love colours, storytelling and DataViz! Enthusiastic about diversity, equity and inclusion. Sea lover, mom always and cook in her spare time. 💕
+I'm data science beginner, eager to learn and aimed at solving problem with data, passionate to work with and for people.
 
-Interest in: Data Analysis, People, Cultures, Cities and Education ✨
+- I’m currently learning NLP
+- Critical thinking, strong work ethic and collective sense
+- Ability to solve complex problems
+- Background in civil engineering 
+- Programming languages: Python, R and SQL
+- Pronouns: She/ Ela/ Lei
+
+Interest in: Machine Learning and DataViz, People Analytics, Geospatial Data, Forecasting Models, Clustering and NLP ✨
 
 ---
  
  <p>
   <img width="70" align='left' src="https://github.com/engcrisoliveira/engcrisoliveira/blob/main/icon/sdg_onu.png?raw=true">
 </p>
- 
-With an engineering and sustainable development background, when the projects scope has SDGs, my eyes shine ✨
+
+With a interest and experience in sustainable development, I love to participate projects that are aligned with the SDGs.
 
 > If you're interested in the UN Sustainable Development Goals, consider call me for a little project!
 
@@ -19,18 +26,3 @@ With an engineering and sustainable development background, when the projects sc
  ​<p align="center"> 
  ​<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&theme=github_dark" alt="engcrisoliveira' most languages"/> 
  ​</p>
-
-<!--
-**engcrisoliveira/engcrisoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
