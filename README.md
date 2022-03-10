@@ -1,6 +1,6 @@
 ## Hey, I'm Cris!
 
-I'm data science beginner, eager to learn and aimed at solving problem with data, passionate to work with and for people.
+I'm a data science beginner, eager to learn and aimed at solving problem with data, passionate to work with and for people.
 
 - I’m currently learning NLP
 - Critical thinking, strong work ethic and collective sense
