@@ -2,7 +2,6 @@
 
 I'm a data science beginner, eager to learn and aimed at solving problems with data, passionate to work with and for people.
 
-- I’m currently learning NLP
 - Critical thinking, strong work ethic and collective sense
 - Ability to solve complex problems
 - Background in civil engineering 
