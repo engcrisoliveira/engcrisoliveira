@@ -7,6 +7,8 @@
 
 I'm civil engineer, eager to learn and aimed at solving problems with data, passionate to work with and for people. I have interest and experience in projects that are aligned with the SDGs.
 
+---
+
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=engcrisoliveira&show_icons=true&hide_title=true&include_all_commits=true&theme=github_dark" alt="engcrisoliveira' stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcrisoliveira&layout=compact&hide_title=true&theme=github_dark" alt="engcrisoliveira' most languages"/>
